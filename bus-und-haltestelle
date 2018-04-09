@@ -1,0 +1,5 @@
+eingabe = input("Anzahl der Haltestellen eingeben")
+for range( i = 0 i == eingabe)
+  anzahl = input("Wie viele personen steigen ein?")
+  summe = anzahl + anzahl
+output("Es sind: ", summe , " personen im bus")
