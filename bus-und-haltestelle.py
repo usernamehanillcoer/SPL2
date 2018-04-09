@@ -4,5 +4,5 @@ for i in range(1 , eingabe):
   anzahl = input("Wie viele personen steigen ein?: ")
   aussteigen = input("Wie viele personen steigen aus?: ")
   summe = anzahl + anzahl
-  summe = anzahl - aussteigen
+  summe = anzahl str aussteigen
 print("Es sind: ", summe , " personen im bus")
